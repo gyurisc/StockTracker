@@ -1,7 +1,33 @@
+# .NET
 **/bin/
 **/obj/
-**/node_modules/
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
+**/*.csproj.user
+
+# SQLite
 **/*.db
 **/*.sqlite
 **/*.sqlite3
+
+# Node
+**/node_modules/
+**/dist/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# IDE
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# OS
+**/.DS_Store
+**/Thumbs.db
+
+# Misc
 **/*.cache
