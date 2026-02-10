@@ -1,0 +1,8 @@
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.csproj.AssemblyReference.cache
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.GeneratedMSBuildEditorConfig.editorconfig
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.AssemblyInfoInputs.cache
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.AssemblyInfo.cs
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.csproj.CoreCompileInputs.cache
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.MvcApplicationPartsAssemblyInfo.cs
+X:\dev\throwaway\StockTracker\StockTracker.Api\obj\Debug\net10.0\StockTracker.Api.MvcApplicationPartsAssemblyInfo.cache
