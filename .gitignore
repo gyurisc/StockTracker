@@ -31,5 +31,6 @@
 
 # Misc
 **/*.cache
+.playwright-mcp/
 StockTracker.Api/stocktracker.db-shm
 StockTracker.Api/stocktracker.db-wal
