@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"X:\\\\dev\\\\throwaway\\\\StockTracker\\\\StockTracker.Api\"\" | grep -E \"^d \")"
+    ]
+  }
+}
