@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="StockTracker.Api.Tests/StockTracker.Api.Tests.csproj" />
   <Project Path="StockTracker.Api/StockTracker.Api.csproj" />
+  <Project Path="StockTracker.Core/StockTracker.Core.csproj" />
 </Solution>

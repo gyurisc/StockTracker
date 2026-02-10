@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
-import { Stock, getStocks, deleteStock } from '../api/stocks';
+import type { Stock } from '../api/stocks';
+import { getStocks, deleteStock } from '../api/stocks';
 
 export default function StockList() {
   const [stocks, setStocks] = useState<Stock[]>([]);

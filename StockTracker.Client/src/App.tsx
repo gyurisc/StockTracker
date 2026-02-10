@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+import { useState } from 'react';
 import StockList from './components/StockList';
 import AddStock from './components/AddStock';
 
