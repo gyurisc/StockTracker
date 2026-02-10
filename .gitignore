@@ -31,3 +31,5 @@
 
 # Misc
 **/*.cache
+StockTracker.Api/stocktracker.db-shm
+StockTracker.Api/stocktracker.db-wal
