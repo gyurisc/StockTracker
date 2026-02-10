@@ -2,6 +2,8 @@
 
 An enterprise-flavoured stock portfolio tracker built as a playground for exploring [Claude Code](https://claude.ai/code), custom skills, and test-driven development workflows.
 
+![StockTracker Dashboard](docs/screenshot.png)
+
 ## Tech Stack
 
 - **API** — .NET 10, EF Core, SQLite
